@@ -72,3 +72,8 @@ bold {
 .fb {
   max-width: 50px;
 }
+
+.afb{
+  position: relative;
+  left: -217px;
+}
