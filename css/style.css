@@ -68,3 +68,7 @@ h5 {
 bold {
   color: fuchsia;
 }
+
+.fb {
+  max-width: 50px;
+}
