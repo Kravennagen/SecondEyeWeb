@@ -61,12 +61,11 @@ h1 {
 }
 
 h5 {
-  color: ;
   font-weight: bold;!important
 }
 
 bold {
-  color: fuchsia;
+  color: red;
 }
 
 .fb {
@@ -83,6 +82,9 @@ div.gallery {
   border: 1px solid #ccc;
   float: left;
   width: 180px;
+}
+.last{
+  color : black;
 }
 
 div.gallery:hover {
